@@ -1,0 +1,1 @@
+var hello: string = 'hello TypeScript'
