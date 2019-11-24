@@ -8,6 +8,7 @@ let str: string = 'abc'
 let arr1: number[] = [1, 2, 3]
 let arr2: Array<number> = [1, 2, 3]
 let arr3: Array<number | string> = [1, 2, 3, '4']
+// let arr4: Array<number> = [1, 2, 3, '4']
 
 // 元组
 let tuple: [number, string] = [0, '1']
