@@ -1,4 +1,5 @@
 import './datatype.ts'
+import './enum.ts'
 
 let hello: string = 'hello TypeScript';
 
